@@ -18,7 +18,7 @@ tickers = ['ATVI', 'ADBE', 'AMD', 'ALXN', 'ALGN', 'GOOG', 'GOOGL', 'AMZN'
     ,'PYPL', 'PEP', 'QCOM', 'REGN', 'ROST', 'SGEN', 'SIRI', 'SWKS'
     ,'SPLK', 'SBUX', 'SNPS', 'TMUS', 'TTWO', 'TSLA', 'TXN', 'KHC'
     ,'TCOM', 'ULTA', 'UAL', 'VRSN', 'VRSK', 'VRTX', 'WBA', 'WDC'
-    ,'WLTW', 'WDAY', 'XEL', 'XLNX'
+    ,'WLTW', 'WDAY', 'XEL', 'XLNX', 'UPWK', 'SQ'
 ]
 
 # if there is no csv of historical data generate it using the stooq API
